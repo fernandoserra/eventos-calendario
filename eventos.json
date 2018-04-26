@@ -39,5 +39,25 @@
 		    "note" 		: "TRIPLE JJJ DIRECTOOOOO",
 		    "user" 		: ""
 		      
+        },
+        {
+        	"title" 	:"Reunion Esmero",
+        	"start" 	:"2018-04-26T10:30:00",
+        	"end"		:"2018-04-26T12:30:00",
+        	"color" 	: "",
+        	"textColor"	: "",
+		    "allDay" 	: "false",
+		    "note" 		: "Reunion Esmero. Oficinas General del Canto",
+		    "user" 		: ""		      
+        },
+        {
+        	"title" 	:"Entrega de Informe",
+        	"start" 	:"2018-04-26T12:30:00",
+        	"end"		:"2018-04-26T15:30:00",
+        	"color" 	: "",
+        	"textColor"	: "",
+		    "allDay" 	: "false",
+		    "note" 		: "Entrega de Informe. Enviarlo al correo informe@esmero.com",
+		    "user" 		: ""		      
         }
 ]
